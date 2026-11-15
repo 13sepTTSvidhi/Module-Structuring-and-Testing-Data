@@ -9,6 +9,10 @@
 // When we call this function with the input string
 // it returns the string in UPPER_SNAKE_CASE, so "HELLO_THERE"
 
+// Here is the code:
+const string = "hello_there";
+console.log(string.toUpperCase()); // .toUppercase() converts the string into uppercase
+
 // Another example: "lord of the rings" should be "LORD_OF_THE_RINGS"
 
 // You will need to come up with an appropriate name for the function
